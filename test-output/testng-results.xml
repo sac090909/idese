@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35835" started-at="2020-02-09T15:02:30 CST" finished-at="2020-02-09T15:03:06 CST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35835" started-at="2020-02-09T15:02:30 CST" finished-at="2020-02-09T15:03:06 CST">
+      <class name="test.DashboardPageTest">
+        <test-method status="PASS" signature="initialization()[pri:0, instance:test.DashboardPageTest@1cab0bfb]" name="initialization" is-config="true" duration-ms="7945" started-at="2020-02-09T15:02:30 CST" finished-at="2020-02-09T15:02:38 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="validUserShouldAbleToLogin()[pri:0, instance:test.DashboardPageTest@1cab0bfb]" name="validUserShouldAbleToLogin" duration-ms="3225" started-at="2020-02-09T15:02:38 CST" finished-at="2020-02-09T15:02:41 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validUserShouldAbleToLogin -->
+        <test-method status="PASS" signature="addNewAccount()[pri:1, instance:test.DashboardPageTest@1cab0bfb]" name="addNewAccount" duration-ms="19927" started-at="2020-02-09T15:02:41 CST" finished-at="2020-02-09T15:03:01 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewAccount -->
+        <test-method status="PASS" signature="exitBrowser()[pri:0, instance:test.DashboardPageTest@1cab0bfb]" name="exitBrowser" is-config="true" duration-ms="4682" started-at="2020-02-09T15:03:01 CST" finished-at="2020-02-09T15:03:06 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exitBrowser -->
+      </class> <!-- test.DashboardPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
